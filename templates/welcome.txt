@@ -1,0 +1,10 @@
+Hello {name},
+
+Welcome to {company}!
+
+We are excited to have you onboard.
+
+{message}
+
+Best regards,
+Your Team
